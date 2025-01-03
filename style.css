@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background: #f4f4f4;
+  }
+  
+  header {
+    background: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 1.5rem 0;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  section {
+    margin: 1.5rem auto;
+    max-width: 800px;
+    padding: 1rem;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  section h3 {
+    color: #007bff;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 0.5rem;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 1rem 0;
+    background: #007bff;
+    color: #fff;
+  }
+  
+  footer a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 5px;
+  }
+  #education {
+    margin: 2rem auto;
+    max-width: 800px;
+    background: #fff;
+    padding: 1.5rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  #education h3 {
+    color: #007bff;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 0.5rem;
+  }
+  
+  .education-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1.5rem;
+  }
+  
+  .edu-details h4 {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .edu-details p {
+    margin: 0.2rem 0;
+    color: #666;
+    font-size: 0.9rem;
+  }
+  
+  .edu-meta p {
+    text-align: right;
+    margin: 0.2rem 0;
+    color: #666;
+    font-size: 0.9rem;
+  }
+  
+  
